@@ -132,13 +132,13 @@
       margin: 0;
 
       a {
-        color: #3498db;
+        color: #0e1111;
         font-size: 18px;
         text-transform: capitalize;
       }
     }
     .breadcrumb-item + .breadcrumb-item::before {
-      color: #3498db;
+      color: #0e1111;
     }
     &.hero-cap2 {
       @media #{$xs} {
